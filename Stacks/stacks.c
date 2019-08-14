@@ -30,12 +30,9 @@ Here is source code of the C program to implement a stack. The C program is succ
      
 
     struct stack
-
     {
-
-        int stk[MAXSIZE];
-
-        int top;
+      int stk[MAXSIZE];
+       int top;
 
     };
 
