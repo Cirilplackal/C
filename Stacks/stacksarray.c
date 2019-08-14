@@ -1,3 +1,4 @@
+//implementation of stacks using array in c
 #include<stdio.h>
 int stack[100],choice,n,top,x,i;
 void push(void);
